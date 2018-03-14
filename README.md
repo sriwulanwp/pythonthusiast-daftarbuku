@@ -18,3 +18,11 @@ Test penggunaan git
 - Mengirim file ke Github
 - Mengubah di Github
 - Mem-pull dari local
+
+## Menggunakan GIT di Team
+
+- Mulai bekerja dengan melihat ke Issue Tracker
+- Bekerja tidak pada master, namun pada branch tersendiri
+- Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
+- Meng-commit code, dan me-review perubahan pada file terlebih dahulu
+- Mem-push branch tersebut
