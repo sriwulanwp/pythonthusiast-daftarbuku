@@ -26,3 +26,7 @@ Test penggunaan git
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
 - Meng-commit code, dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
+
+## Kesimpulan
+- Dengan GIt dan Github, kode akan aman dari hard-disk rusak
+- Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portfolio
