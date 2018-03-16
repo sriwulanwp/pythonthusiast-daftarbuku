@@ -13,6 +13,7 @@ Test penggunaan git
 - Kirim perubahan ke github dengan git push
 
 ## Menggunakan GIT dengan PyCharm
+- Pastikan menggunakan PyCharm terkini, download di situsnya langsung
 - Membuka project yang sudah di-clone di command line
 - Mengubah file
 - Mengirim file ke Github
@@ -26,6 +27,10 @@ Test penggunaan git
 - Mem-push branch baru tersebut (atau mem-push jika sudah ada commit)
 - Meng-commit code, dan me-review perubahan pada file terlebih dahulu
 - Mem-push branch tersebut
+
+## Instalasi
+- Menggunakan Linux, cukup dengan apt install git
+- Menggunakan Windows, dengan mendownload tool Git di https://git-scm.com/download
 
 ## Kesimpulan
 - Dengan GIt dan Github, kode akan aman dari hard-disk rusak
